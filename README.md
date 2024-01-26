@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @alinasjs
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alinasjs/alinasjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis une jeune analyste de données avec un diplôme scientifique à la recherche de ma première opportunité professionnelle en France.
+Ma formation en sciences m'a équipé de compétences en mathématiques, statistiques et programmation. 
+J'ai également acquis une expertise en Python, Matlab, SQL, Tableau et MS Office au cours de mes études. 
+Depuis toujours je suis passionnée par l'analyse de données et je suis déterminée à apporter une perspective scientifique à ce domaine.
